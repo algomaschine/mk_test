@@ -1,4 +1,4 @@
-Year, Month, Day, Hour, Minute, Open, High, Low, Close, Volume
+Year,Month, Day, Hour, Minute, Open, High, Low, Close, Volume
 2013,4,11, 00,00, 162.00, 162.00, 162.00, 162.00, 3.4985
 2013,4,11, 00,01, 162.00, 163.00, 162.00, 163.00, 6.2747
 2013,4,11, 00,02, 164.90, 164.90, 164.90, 164.90, 2.2119
